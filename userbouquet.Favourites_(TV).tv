@@ -1,0 +1,5 @@
+#NAME Favourites (TV)
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "subbouquet.ARABIC.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "subbouquet.INFO.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "subbouquet.SPORT.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "subbouquet.DIVERS.tv" ORDER BY bouquet
